@@ -1,4 +1,4 @@
-name: aws-python-lambda-deploy
+name: react-yarn-builder
 
 on:
   push:
